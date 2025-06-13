@@ -1,1 +1,5 @@
+## Deployment 🌩️: 
 
+Initialized (terraform init)
+Reviewed (terraform plan)
+Launched the EC2 instance (terraform apply) 
